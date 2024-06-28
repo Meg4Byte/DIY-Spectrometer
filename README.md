@@ -65,9 +65,12 @@ Note:You may need to calibrate theremeino spectrometer based on the camera.Pleas
 ## Results 
 
 Image below represents theoretical spectre of the white LED light source used in this project.X axis is wavelenght in nm and Y axis is presence (green color is most present) 
+
 <p align="center">
-  ![white-led-spectrum-768x360-2634762087](https://github.com/Meg4Byte/Spectrometer/assets/121357383/3ff6c714-3e7a-4b90-9f2f-b8fcefb12ac4)
+  <img src="https://github.com/Meg4Byte/Spectrometer/assets/121357383/3fafc033-e831-4ad7-bda6-fd37cf13e829">
+
 </p>
+
 Here is the measured spectre of the white LED light source.As you can see result are quite similar.
 
    ![0_15](https://github.com/Meg4Byte/Spectrometer/assets/121357383/51b78181-9099-49b3-ae1e-b044c51142d0)
