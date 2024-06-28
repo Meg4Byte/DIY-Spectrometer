@@ -24,7 +24,9 @@ A spectrometer is an instrument used to measure properties of light over a speci
 
 The following diagram illustrates the basic working principle of a spectrometer
 
-    IMAGE
+
+![spectr_principle](https://github.com/Meg4Byte/Spectrometer/assets/121357383/48567232-f5ac-4c01-af24-f59dfd9d1e06)
+
 
 1. **Light Source**: The spectrometer starts with a light source, which emits light that passes through a slit.
 2. **Collimator**: The light then passes through a collimator, which makes the light rays parallel.
@@ -62,15 +64,13 @@ Note:You may need to calibrate theremeino spectrometer based on the camera.Pleas
 
 ## Results 
 
-Image below represents theoretical spectre of the white LED light source used in this project.
+Image below represents theoretical spectre of the white LED light source used in this project.X axis is wavelenght in nm and Y axis is presence (green color is most present) 
 
-    ADD IMAGE
+![white-led-spectrum-768x360-2634762087](https://github.com/Meg4Byte/Spectrometer/assets/121357383/3ff6c714-3e7a-4b90-9f2f-b8fcefb12ac4)
 
-Here is the measured spectre of the white LED light source.
+Here is the measured spectre of the white LED light source.As you can see result are quite similar.
 
-    ADD IMAGE
-
-As you can see result are quite similar.
+   ![0_15](https://github.com/Meg4Byte/Spectrometer/assets/121357383/51b78181-9099-49b3-ae1e-b044c51142d0)
 
 
 ## Contributions 
