@@ -47,17 +47,15 @@ The following diagram illustrates the basic working principle of a spectrometer
 
 #### Step by Step Instructions
 
-Prepare the CD: Carefully cut a piece from the CD to use as a diffraction grating. The reflective surface will help in dispersing light.
-Modify the Camera: Attach the CD piece to the USB camera lens using black tape or cardboard to hold it in place. Ensure it’s positioned correctly to capture the light spectrum.
-Install Theremino Software: Download and install the Theremino software from their official website. This software will process the captured images and help analyze the light spectrum.
-Assemble the Spectrometer: Connect the USB camera to your computer, and set up the Theremino software to interface with the camera. Position the camera to capture light from a source, and adjust the setup to ensure a clear spectrum is visible.
+- Prepare the CD: Carefully cut a piece from the CD to use as a diffraction grating. The reflective surface will help in dispersing light.
+- Modify the Camera: Attach the CD piece to the USB camera lens using black tape or cardboard to hold it in place. Ensure it’s positioned correctly to capture the light spectrum.
+- Install Theremino Software: Download and install the Theremino software from their official website. This software will process the captured images and help analyze the light spectrum.
+- Assemble the Spectrometer: Connect the USB camera to your computer, and set up the Theremino software to interface with the camera. Position the camera to capture light from a source, and adjust the setup to ensure a clear spectrum is visible.
 
 #### Usage Instructions
 
 - Start the Software: Launch the Theremino software on your computer.
-
 - Capture the Spectrum: Point the USB camera towards a light source, and adjust until the spectrum is clearly visible in the software interface.
-  
 - Analyze the Data: Use Theremino to analyze the captured spectrum, identifying different wavelengths and their intensities.
 
 Note:You may need to calibrate theremeino spectrometer based on the camera.Please refer to the theremenio spectrometer page for more details.
@@ -67,7 +65,7 @@ Note:You may need to calibrate theremeino spectrometer based on the camera.Pleas
 Image below represents theoretical spectre of the white LED light source used in this project.X axis is wavelenght in nm and Y axis is presence (green color is most present) 
 
 <p align="center">
-  <img src="https://github.com/Meg4Byte/Spectrometer/assets/121357383/3fafc033-e831-4ad7-bda6-fd37cf13e829">
+  <img src="https://github.com/Meg4Byte/Spectrometer/assets/121357383/b23a8fd7-91d8-43e4-ae14-f8dcc7ad618d">
 
 </p>
 
