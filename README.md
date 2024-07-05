@@ -1,4 +1,4 @@
-# Spectrometer
+# DIY Spectrometer
 Homemade DIY spectrometer using FOSS Theremino Software , usb camera and some ingenuity
 
 ## Intro 
@@ -68,6 +68,8 @@ Image below represents theoretical spectre of the white LED light source used in
   <img src="https://github.com/Meg4Byte/Spectrometer/assets/121357383/b23a8fd7-91d8-43e4-ae14-f8dcc7ad618d">
 
 </p>
+
+---
 
 Here is the measured spectre of the white LED light source.As you can see result are quite similar.
 
